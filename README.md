@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Ezgi.
 - 👀 I’m interested in design website.
 - 🌱 I’m currently learning wordpress,python.
-- 📫 How to reach me [ url = ( ezgidevecioglu560@gmail.com) ] ( My Mail) [/url]
-- www.linkedin.com/in/
-ezgi-devecioğlu-1b0604274
+- 📫 How to reach me [ url ( ezgidevecioglu560@gmail.com) ] ( My Mail) [/url]
+- https://www.linkedin.com/in/ezgi-devecioğlu-1b0604274
+
 
 
 <!---
